@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me - instagram @kabirgotnochills
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: not have any fact that have fun 
+- ⚡ Fun fact: not have any fact that have fun  
 
 <!---
 KabirGotNoChills/KabirGotNoChills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
